@@ -1,0 +1,13 @@
+
+public class B {
+ 
+	public static void main(String[] args) {
+		 
+		int pass = 35;
+		if (pass>=12) {
+			System.out.println("pass");
+		}else {
+			System.out.println("fail");
+		}
+	}
+}

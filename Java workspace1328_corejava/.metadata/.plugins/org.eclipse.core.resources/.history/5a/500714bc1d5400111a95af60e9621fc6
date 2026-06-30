@@ -1,0 +1,13 @@
+
+public class C {
+
+	public static void main(String[] args) {
+		
+		int positive =56;
+		if(positive <= 34) {
+			System.out.println(" u r positive");
+		}else {
+			System.out.println("u r nigative");
+		}
+	}
+}

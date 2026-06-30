@@ -1,0 +1,20 @@
+package Account;
+
+public class Passbook {
+	
+
+	public static void main(String[] args, char SuIF002, char RW1234) {
+		
+		  Account a = new Account();
+		  a.accountName = "rajeskumbhar";
+		  a.accountNo = 123456700012l;
+		  a.IfscCode =SuIF002;
+		  a.coustomerId = RW1234;
+		  a.Bankname = "HDFCbank";
+		  a.accountholderName ="rajeshkumbhar";
+		  a.branchName ="pimpriChinchwad";
+		  a.accountTypes ="savingAccount";
+		  a.m2();
+	}
+
+}

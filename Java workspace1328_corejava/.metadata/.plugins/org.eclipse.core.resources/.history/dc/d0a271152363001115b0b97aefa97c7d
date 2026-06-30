@@ -1,0 +1,29 @@
+package Account;
+
+public class Account {
+	
+	String accountName;
+	long accountNo;
+	char IfscCode;
+	char coustomerId;
+	String Bankname;
+	String accountholderName;
+	String branchName;
+	String accountTypes;
+	
+	public void m2() {
+		
+		System.out.println(accountName);
+		System.out.println(accountNo);
+		System.out.println(IfscCode);
+		System.out.println(cheakdeteles);
+		System.out.println(coustomerId);
+		System.out.println(Bankname);
+		System.out.println(accountholderName);
+		System.out.println(branchName);
+		System.out.println(accountTypes);
+
+}
+
+	
+}

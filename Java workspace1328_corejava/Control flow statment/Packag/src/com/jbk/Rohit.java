@@ -1,0 +1,42 @@
+package com.jbk;
+
+public class Rohit {
+
+	public static void main(String[] args) {
+		Student shrvan = new Student ();
+		 System.out.println("----------------------------------");
+		System.out.println("Student imformatin----------!");
+		
+		System.out.println("Student name -->"+ (shrvan.Name = "shrvan"));
+		System.out.println("Student adharNo-->" + (shrvan.adharNo =342345678967l));
+		System.out.println("Student mobailNo-->" +( shrvan.mobailNo = 901143133));
+		System.out.println("Student id    -->" +(shrvan.idNo =1234));
+		System.out.println("Student rollNo--->" +(shrvan.rollNo = 4137));
+		
+		
+		
+		Student Ram = new Student();
+	System.out.println("Student imformatin----------!");
+		
+		System.out.println("Student name -->"+ (Ram.Name = "shrvan"));
+		System.out.println("Student adharNo-->" + (Ram.adharNo =98765678967l));
+		System.out.println("Student mobailNo-->" +(Ram.mobailNo = 903456783));
+		System.out.println("Student id    -->" +(Ram.idNo =3245));
+		System.out.println("Student rollNo--->" +(Ram.rollNo = 4145));
+		
+
+		
+		Student Pratik = new Student();
+	System.out.println("Student imformatin----------!");
+		
+		System.out.println("Student name -->"+ (Pratik.Name = "shrvan"));
+		System.out.println("Student adharNo-->" + (Pratik.adharNo =2345678678967l));
+		System.out.println("Student mobailNo-->" +(Pratik.mobailNo = 967899033));
+		System.out.println("Student id    -->" +(Pratik.idNo =9087));
+		System.out.println("Student rollNo--->" +(Pratik.rollNo = 4897));
+
+		
+
+
+	}
+}

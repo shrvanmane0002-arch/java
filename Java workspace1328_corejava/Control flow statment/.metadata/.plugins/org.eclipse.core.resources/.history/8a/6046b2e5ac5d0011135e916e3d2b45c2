@@ -1,0 +1,16 @@
+package com.jbk;
+
+public class Rohit {
+
+	public static void main(String[] args) {
+		 System.out.println("----------------------------------");
+		Student shrvan = new Student ();
+		System.out.println("Student imformatin----------!");
+		
+		System.out.println("Student name -->"+ (shrvan.Name = "shrvan"));
+		System.out.println("Student adharNo-->" + (shrvan.adharNo =34567891234567l));
+		System.out.println("Student mobailNo-->" +( shrvan.mobailNo = 901143133));
+		System.out.println("Student id    -->" +(shrvan.idNo =1234));
+		System.out.println("Student rollNo--->" +(shrvan.rollNo = 4137));
+	}
+}

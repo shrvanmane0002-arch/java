@@ -1,0 +1,14 @@
+ package com.jbk;
+
+public class Mainlibrary {
+
+	public static void main(String[] args) {
+		
+		Library a =new library();
+		a.libraryName="swami vivekanand";
+		a.librarycontactNo=90114313;
+		a.libraryTime=11l;
+		a.allStudent=50;
+		a.show();
+	}
+}

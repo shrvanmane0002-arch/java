@@ -1,0 +1,10 @@
+
+public class o {
+
+	string i = 1234;
+	do {
+		System.out.println( "hello");
+	}while(i <= 4321);
+}
+
+}

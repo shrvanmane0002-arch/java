@@ -1,0 +1,11 @@
+
+public class o {
+
+	int i=1;
+	do {
+		System.out.println( "hello");
+		i++;
+	}while(i <= 45);
+}
+
+}

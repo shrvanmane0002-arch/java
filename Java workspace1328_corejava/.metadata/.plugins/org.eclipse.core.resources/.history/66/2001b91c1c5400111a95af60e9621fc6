@@ -1,0 +1,12 @@
+
+public class A {
+
+	public static void main(String[] args) {
+		int age =111;
+		if(age>=18) {
+			System.out.println("U r eligible for voting");		
+		}else {
+			System.out.println("not eligible for voting");
+		}
+	}
+}

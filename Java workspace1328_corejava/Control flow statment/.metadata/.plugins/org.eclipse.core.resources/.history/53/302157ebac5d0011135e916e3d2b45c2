@@ -1,0 +1,11 @@
+package com.jbk;
+
+public class Student {
+
+	String Name;
+	int adharNo;
+	long mobailNo;
+	int id;
+	int rollNo;
+	
+}

@@ -1,0 +1,12 @@
+
+public class E {
+
+	public static void main(String[] args) {
+		int even = 2;
+		if(even <= 5) {
+			System.out.println("even number");
+		}else {
+			System.out.println("odd number");
+		}
+	}
+}

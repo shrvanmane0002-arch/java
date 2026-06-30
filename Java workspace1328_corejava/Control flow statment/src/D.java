@@ -1,0 +1,12 @@
+
+public class D {
+
+	public static void main(String[] args) {
+		int even= 1;
+		if("even=3"){
+			System.out.println("even number ");
+		}else {
+			System.out.println("odd number");
+		}
+	}
+}

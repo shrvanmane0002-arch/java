@@ -1,0 +1,11 @@
+package com.jbk;
+
+public class Library {
+
+	public void myLibrary() {
+		String libraryName;
+		int librarycontactNo;
+		float libraryTime;
+		int allStudent;
+	}
+}

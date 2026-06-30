@@ -1,0 +1,12 @@
+
+public class D {
+
+	public static void main(String[] args) {
+		String userName = ram002;
+		if(userName== ram002) {
+			System.out.println("u r userName login successfully ");
+		}else {
+			System.out.println("u r userName not successfully");
+		}
+	}
+}
